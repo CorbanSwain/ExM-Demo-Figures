@@ -1,3 +1,4 @@
 # ignore everything
 *
 !.gitignore
+!exm-demo-fig-py3.12-env.yml
