@@ -1,7 +1,6 @@
 name: exm-demo-fig-py3.12-env
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.12
   - jupyterlab
