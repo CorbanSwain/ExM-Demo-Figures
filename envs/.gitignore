@@ -2,3 +2,4 @@
 *
 !.gitignore
 !exm-demo-fig-py3.12-env.yml
+!exm-demo-fig-py3.12-env-lock.yml
