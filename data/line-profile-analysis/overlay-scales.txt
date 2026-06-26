@@ -1,0 +1,9 @@
+pixels_per_micron:
+ - overlaid:
+   - pre: 24.9917
+   - post: 5.8891
+expansion_factor:
+ - 
+   - value: 4.2230940144
+   - measured_by: pre in post space image edge length
+   - calculation: (2048*4)/1939.81
